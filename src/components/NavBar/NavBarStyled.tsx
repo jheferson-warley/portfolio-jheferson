@@ -1,6 +1,27 @@
 import Styled from "styled-components";
 
-export const HeaderStyle = Styled.header`
+export const NavBarStyle = Styled.header`
+body {
+  margin: 0;
+  color: #141414;
+
+}
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
 
 .header img{
   max-width: 100%;
@@ -23,7 +44,7 @@ export const HeaderStyle = Styled.header`
   justify-content: center;
   text-decoration: none;
 }
-.header-menu a {
+.header-menu li {
   font-size: 1.125rem;
   font-family: Fira Sans, Arial, Helvetica, sans-serif;
   font-weight: 500;
@@ -32,16 +53,14 @@ export const HeaderStyle = Styled.header`
   padding: 10px 20px;
   color: #141414;
   display: block;
+  cursor: pointer;
 }
-.header-menu a:hover{
-  padding: 7px 20px;
+.header-menu li:hover{
+  padding: 5px 10px;
   background-color: #FF7F77;
   border-radius: 10px;
+  text-align: center;
+  margin-top: 7px;
 }
-.header-menu li{
-  font-size: 1.125rem;
-  list-style: none;
-  text-decoration: none;
-  color: #141414;
-}
+
 `;

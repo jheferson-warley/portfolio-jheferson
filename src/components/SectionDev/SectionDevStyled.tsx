@@ -1,7 +1,27 @@
 import Styled from "styled-components";
-import detalhe from "../../assets/images/detalhe1.svg"
+import detalhe from "../../assets/images/detalhe1.svg";
 
 export const SectionDevStyled = Styled.section`
+body {
+  margin: 0;
+  color: #141414;
+}
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
 .introducao {
   max-width: 1200px;
   padding: 40px 20px;
@@ -35,4 +55,4 @@ export const SectionDevStyled = Styled.section`
   font-family: Fira Sans, Arial, Helvetica, sans-serif;
   color: #525252;
 }
-`
+`;

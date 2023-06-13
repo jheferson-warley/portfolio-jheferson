@@ -21,11 +21,6 @@ const Training = () => {
               </h3>
               <span className="faculdade-instituicao">Uninter</span>
             </li>
-            <li className="faculdade">
-              <span className="faculdade-tipo">CURSO</span>
-              <h3 className="faculdade-curso">Web Design</h3>
-              <span className="faculdade-instituicao">Origamid</span>
-            </li>
           </ul>
           <div className="formacao-extra">
             <div className="cursos">
@@ -33,8 +28,9 @@ const Training = () => {
               <ul>
                 <li>HTML 5</li>
                 <li>CSS 3</li>
-                <li>Bootstrap 5</li>
                 <li>JavaScript</li>
+                <li>ReactJS</li>
+                <li>Styled-Components</li>
               </ul>
             </div>
 
@@ -45,7 +41,7 @@ const Training = () => {
                   Português <span>/ Nativo</span>
                 </li>
                 <li>
-                  Inglês <span>/ Técnico</span>
+                  Inglês <span>/ Básico</span>
                 </li>
               </ul>
             </div>

@@ -1,17 +1,19 @@
-
 import "./App.css";
+import "./Responsive.css";
 import Experience from "./components/Experience/Experience";
-import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
+import NavBar from "./components/NavBar/NavBar";
 import SectionDev from "./components/SectionDev/SectionDev";
 import Training from "./components/Training/Training";
 
 function App() {
   return (
     <>
-      <Header />
-      <SectionDev/>
-      <Experience/>
-      <Training/>
+      <NavBar />
+      <SectionDev />
+      <Experience />
+      <Training />
+      <Footer />
     </>
   );
 }
