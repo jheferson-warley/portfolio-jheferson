@@ -10,7 +10,7 @@ const SectionDev = () => {
           <h1>
             Desenvolvedor <br /> Front End
           </h1>
-          <p>Localizado no Distrito Federal 🛰️</p>
+          <p>Localizado em Brasília-DF 🛰️</p>
         </div>
       </section>
     </SectionDevStyled>

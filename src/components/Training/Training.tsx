@@ -8,9 +8,9 @@ const Training = () => {
         <h2 className="subtitle">Formação</h2>
         <div>
           <p className="formacao-texto">
-            Minha mais recente experiência acadêmica foi o{" "}
+            Minha mais recente experiência acadêmica é{" "}
             <strong>Ánalise</strong> e <strong>Desenvolvimento</strong> de{" "}
-            <strong>Sistemas</strong> 🎓 que estou realisando pela Uninter. Além
+            <strong>Sistemas</strong> 🎓 que cursei pela Uninter. Além
             disso me mantenho sempre atualizado com cursos intensivos online.
           </p>
           <ul className="faculdade-lista">

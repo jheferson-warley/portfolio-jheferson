@@ -14,7 +14,6 @@ const Experience = () => {
           </p>
 
           <div className="empresa">
-            <span className="empresa-ano">2022</span>
             <h3 className="empresa-titulo">Calculadora Web</h3>
             <span className="empresa-titulo-tec">Tecnologias Usadas</span>
             <p className="empresa-texto">
@@ -28,7 +27,6 @@ const Experience = () => {
           </div>
 
           <div className="empresa">
-            <span className="empresa-ano">2022</span>
             <h3 className="empresa-titulo">Cronômetro</h3>
             <span className="empresa-titulo-tec">Tecnologias Usadas</span>
             <p className="empresa-texto">
@@ -42,7 +40,6 @@ const Experience = () => {
           </div>
 
           <div className="empresa">
-            <span className="empresa-ano">2022</span>
             <h3 className="empresa-titulo"> Formulário de Conta</h3>
             <span className="empresa-titulo-tec">Tecnologias Usadas</span>
             <p className="empresa-texto">
