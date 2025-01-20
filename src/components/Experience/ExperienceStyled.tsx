@@ -119,6 +119,25 @@ export const ExperienceStyled = styled.section`
     padding: 5px 10px;
     list-style: none;
   }
+  .linkedin-btn {
+  padding: 5px 10px;
+  background-color: #FF7F77;
+  border-radius: 10px;
+  color: #525252;
+  text-decoration: none;
+  }
+  .linkedin-btn-project {
+  padding: 5px 10px;
+  background-color: #FF7F77;
+  border-radius: 10px;
+  color: #525252;
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  justify-content: center;
+  text-decoration: none;
+  }
   @media (max-width: 800px) {
     .projeto {
       grid-template-columns: 1fr;
@@ -140,6 +159,7 @@ export const ExperienceStyled = styled.section`
       grid-template-columns: 1fr;
       gap: 10px 20px;
       padding: 20px;
+      padding-bottom: 40px;
       background: #f5f5f5;
       margin-bottom: 20px;
       border-radius: 4px;
@@ -199,6 +219,17 @@ export const ExperienceStyled = styled.section`
     /*Projetos*/
     .projeto {
       grid-template-columns: 1fr;
+    }
+    .empresa {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px 20px;
+      padding: 20px;
+      padding-bottom: 40px;
+      background: #f5f5f5;
+      margin-bottom: 20px;
+      border-radius: 4px;
+      font-family: Fira Sans, Arial, Helvetica, sans-serif;
     }
     .empresa-titulo-tec {
       font-family: Playfair + Display;

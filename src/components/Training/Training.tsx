@@ -9,10 +9,21 @@ const Training = () => {
         <div>
           <p className="formacao-texto">
             Minha mais recente experiência acadêmica é{" "}
-            <strong>Ánalise</strong> e <strong>Desenvolvimento</strong> de{" "}
-            <strong>Sistemas</strong> 🎓 que cursei pela Uninter. Além
+            <strong>Pós Graduação</strong> em{" "}
+            <strong>Ciência de Dados</strong> e  <strong>Marchine Laerning</strong> 🎓 que cursei pela UniCeub e também   
+            <strong> Ánalise</strong> e <strong>Desenvolvimento</strong> de{" "}
+            <strong>Sistemas</strong> que cursei pela Uninter. Além
             disso me mantenho sempre atualizado com cursos intensivos online.
           </p>
+          <ul className="faculdade-lista">
+            <li className="faculdade">
+              <span className="faculdade-tipo">Pós Graduado</span>
+              <h3 className="faculdade-curso">
+              Ciência de Dados e Marchine Laerning{" "}
+              </h3>
+              <span className="faculdade-instituicao">UniCeub</span>
+            </li>
+          </ul>
           <ul className="faculdade-lista">
             <li className="faculdade">
               <span className="faculdade-tipo">TECNÓLOGO</span>
@@ -26,11 +37,11 @@ const Training = () => {
             <div className="cursos">
               <h3>Cursos Intensivos</h3>
               <ul>
-                <li>HTML 5</li>
-                <li>CSS 3</li>
-                <li>JavaScript</li>
-                <li>ReactJS</li>
-                <li>Styled-Components</li>
+                <li>Qlik Sense</li>
+                <li>Power BI</li>
+                <li>Excel</li>
+                <li>SQL</li>
+                <li>Python</li>
               </ul>
             </div>
 

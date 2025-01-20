@@ -1,5 +1,5 @@
 import { SectionDevStyled } from "./SectionDevStyled";
-import myImg from "./my-img.jpg";
+import myImg from "./my-img-02.jpg";
 
 const SectionDev = () => {
   return (
@@ -8,7 +8,7 @@ const SectionDev = () => {
         <img src={myImg} alt="foto de perfil" />
         <div>
           <h1>
-            Desenvolvedor <br /> Front End
+            Analista de Dados
           </h1>
           <p>Localizado em Brasília-DF 🛰️</p>
         </div>
