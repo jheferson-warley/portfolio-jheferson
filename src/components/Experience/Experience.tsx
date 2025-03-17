@@ -27,7 +27,7 @@ const Experience = () => {
           </div>
           
           <div className="empresa">
-            <h3 className="empresa-titulo">nálise de Vendas Online: Tratamento e Exploração de Dados</h3>
+            <h3 className="empresa-titulo">Análise de Vendas Online: Tratamento e Exploração de Dados</h3>
             <span className="empresa-titulo-tec">Tecnologias Usadas</span>
             <p className="empresa-texto">
             Este projeto demonstra habilidades em tratamento e análise exploratória de dados com Python. O objetivo foi transformar um dataset de vendas online inconsistente em uma base limpa e estruturada, facilitando a extração de insights sobre o desempenho da loja.
