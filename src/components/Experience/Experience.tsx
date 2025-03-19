@@ -53,7 +53,7 @@ const Experience = () => {
               <li>Power BI</li>
               <li>Excel</li>
               <li>DAX</li>
-              <a className="linkedin-btn-project" href="https://www.linkedin.com/posts/jheferson-warley_businessintelligence-powerbi-dataanalytics-activity-7285787039399112704-yRW_?utm_source=social_share_sheet&utm_medium=member_desktop_web" target="_blank">Acessar o projeto</a>
+              <a className="linkedin-btn-project" href="https://www.linkedin.com/posts/jheferson-warley_powerbi-anaerlisededados-dataanalyst-activity-7284691577304748032-nrWK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkvt4EBHoRMX4WmWjN5BFZAA3LDsVkLSAo" target="_blank">Acessar o projeto</a>
             </ul>
           </div>
 
@@ -67,7 +67,7 @@ const Experience = () => {
               <li>Power BI</li>
               <li>Excel</li>
               <li>DAX</li>
-              <a className="linkedin-btn-project" href="https://www.linkedin.com/posts/jheferson-warley_powerbi-anaerlisededados-dataanalyst-activity-7284691577304748032-nrWK?utm_source=social_share_sheet&utm_medium=member_desktop_web" target="_blank">Acessar o projeto</a>
+              <a className="linkedin-btn-project" href="https://www.linkedin.com/posts/jheferson-warley_businessintelligence-powerbi-dataanalytics-activity-7285787039399112704-yRW_?utm_source=social_share_sheet&utm_medium=member_desktop_web" target="_blank">Acessar o projeto</a>
             </ul>
           </div>
 
